@@ -1,0 +1,11 @@
+/target
+/.mvn
+/.settings
+/.project
+/*.classpath
+/.apt_generated/
+/.factorypath
+/nbproject/
+/bin
+nb-configuration.xml
+nbactions.xml
